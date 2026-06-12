@@ -1,4 +1,14 @@
 # ResumeIQ – AI-Powered ATS Resume Analyzer & Interview Coach
+## 🚀 Live Demo
+
+🔗 Hugging Face Space:
+https://huggingface.co/spaces/vhvct/resumeiq-ats-analyzer
+
+🌐 Live Application:
+https://vhvct-resumeiq-ats-analyzer.hf.space
+
+💻 GitHub Repository:
+https://github.com/VHVCharanTeja/RESUME-IQ-ATS-ANALYZER
 
 ## Overview
 
