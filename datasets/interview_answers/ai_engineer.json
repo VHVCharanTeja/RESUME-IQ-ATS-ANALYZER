@@ -1,0 +1,65 @@
+{
+  "role": "AI Engineer",
+  "questions": [
+    {
+      "question": "What is Artificial Intelligence?",
+      "ideal_answer": "Artificial Intelligence is a branch of computer science that enables machines to simulate human intelligence including learning, reasoning, decision-making, problem-solving, perception, and language understanding."
+    },
+    {
+      "question": "What is Machine Learning?",
+      "ideal_answer": "Machine Learning is a subset of AI that enables systems to learn from data and improve performance without explicit programming."
+    },
+    {
+      "question": "Difference between AI and ML?",
+      "ideal_answer": "AI is the broader field focused on creating intelligent systems, while ML is a subset that allows systems to learn from data."
+    },
+    {
+      "question": "What is Deep Learning?",
+      "ideal_answer": "Deep Learning is a subset of Machine Learning that uses neural networks with multiple hidden layers to learn complex patterns."
+    },
+    {
+      "question": "What is Supervised Learning?",
+      "ideal_answer": "Supervised learning uses labeled data to train models for prediction tasks."
+    },
+    {
+      "question": "What is Overfitting?",
+      "ideal_answer": "Overfitting occurs when a model memorizes training data and performs poorly on unseen data."
+    },
+    {
+      "question": "Explain CNN.",
+      "ideal_answer": "Convolutional Neural Networks are deep learning models specialized for image processing tasks."
+    },
+    {
+      "question": "Explain Bias-Variance Tradeoff.",
+      "ideal_answer": "Bias causes underfitting while variance causes overfitting. A balance is needed for optimal performance."
+    },
+    {
+      "question": "TensorFlow vs PyTorch?",
+      "ideal_answer": "TensorFlow is widely used in production environments while PyTorch is popular in research due to its flexibility."
+    },
+    {
+      "question": "What is Transfer Learning?",
+      "ideal_answer": "Transfer learning reuses knowledge from pre-trained models for new tasks."
+    },
+    {
+      "question": "How do you handle imbalanced datasets?",
+      "ideal_answer": "Use oversampling, undersampling, SMOTE, class weights, and suitable evaluation metrics."
+    },
+    {
+      "question": "Explain Model Deployment.",
+      "ideal_answer": "Model deployment makes trained models available through APIs, web apps, cloud services, or edge devices."
+    },
+    {
+      "question": "Design an AI Vehicle Tracking System.",
+      "ideal_answer": "Use YOLO for detection, DeepSORT for tracking, speed estimation algorithms, and a dashboard for monitoring."
+    },
+    {
+      "question": "How do you optimize inference speed?",
+      "ideal_answer": "Apply quantization, pruning, TensorRT optimization, batching, and lightweight models."
+    },
+    {
+      "question": "Explain MLOps Workflow.",
+      "ideal_answer": "MLOps covers data collection, preprocessing, training, deployment, monitoring, and retraining."
+    }
+  ]
+}

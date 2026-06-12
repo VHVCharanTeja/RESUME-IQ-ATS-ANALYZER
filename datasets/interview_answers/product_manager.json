@@ -1,0 +1,20 @@
+{
+  "role":"Product Manager",
+  "questions":[
+    {"question":"What is Product Management?","ideal_answer":"Managing product lifecycle and strategy."},
+    {"question":"What is Agile?","ideal_answer":"Iterative product development methodology."},
+    {"question":"What is Scrum?","ideal_answer":"Agile framework using sprints."},
+    {"question":"What is User Story?","ideal_answer":"Requirement from user's viewpoint."},
+    {"question":"What is Roadmap?","ideal_answer":"Product development plan."},
+    {"question":"Prioritize Features?","ideal_answer":"Based on value and impact."},
+    {"question":"Market Research?","ideal_answer":"Understanding customers and competitors."},
+    {"question":"Product Analytics?","ideal_answer":"Data-driven product insights."},
+    {"question":"Stakeholder Management?","ideal_answer":"Aligning business interests."},
+    {"question":"MVP?","ideal_answer":"Minimum Viable Product."},
+    {"question":"Product Strategy?","ideal_answer":"Long-term vision and goals."},
+    {"question":"Launch Product?","ideal_answer":"Plan, test and release."},
+    {"question":"Measure Success?","ideal_answer":"Track KPIs and metrics."},
+    {"question":"Conflicting Priorities?","ideal_answer":"Balance impact and resources."},
+    {"question":"Lead Product Organization?","ideal_answer":"Drive vision and execution."}
+  ]
+}

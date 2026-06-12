@@ -1,0 +1,20 @@
+{
+  "role":"Site Reliability Engineer",
+  "questions":[
+    {"question":"What is SRE?","ideal_answer":"Engineering discipline focused on reliability and scalability."},
+    {"question":"What is Uptime?","ideal_answer":"Percentage of time a system remains operational."},
+    {"question":"What is Monitoring?","ideal_answer":"Tracking system health and performance."},
+    {"question":"What is Logging?","ideal_answer":"Recording system events."},
+    {"question":"What is Alerting?","ideal_answer":"Notifications when issues occur."},
+    {"question":"What is Observability?","ideal_answer":"Ability to understand internal system state."},
+    {"question":"Incident Management?","ideal_answer":"Process of handling service disruptions."},
+    {"question":"What is Scalability?","ideal_answer":"Ability to handle increasing workload."},
+    {"question":"What is Reliability?","ideal_answer":"Consistency of system performance."},
+    {"question":"SLA vs SLO?","ideal_answer":"SLA is agreement, SLO is reliability target."},
+    {"question":"Handle Outages.","ideal_answer":"Identify root cause and restore service."},
+    {"question":"Highly Available System?","ideal_answer":"Use redundancy and failover."},
+    {"question":"Capacity Planning?","ideal_answer":"Forecast future resource requirements."},
+    {"question":"Optimize Reliability.","ideal_answer":"Improve monitoring, automation and testing."},
+    {"question":"Monitoring Strategy?","ideal_answer":"Use metrics, logs and tracing."}
+  ]
+}

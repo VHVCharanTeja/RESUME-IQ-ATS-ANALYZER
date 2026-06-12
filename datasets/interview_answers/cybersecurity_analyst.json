@@ -1,0 +1,20 @@
+{
+  "role":"Cybersecurity Analyst",
+  "questions":[
+    {"question":"What is Cybersecurity?","ideal_answer":"Protection of systems, networks and data from attacks."},
+    {"question":"What is Malware?","ideal_answer":"Malicious software designed to damage systems."},
+    {"question":"What is Phishing?","ideal_answer":"Fraudulent attempts to steal sensitive information."},
+    {"question":"What is a Firewall?","ideal_answer":"Security system controlling network traffic."},
+    {"question":"What is SIEM?","ideal_answer":"Security Information and Event Management platform."},
+    {"question":"Threat Detection?","ideal_answer":"Identifying potential cyber threats."},
+    {"question":"Vulnerability Assessment?","ideal_answer":"Finding weaknesses in systems."},
+    {"question":"Incident Response?","ideal_answer":"Handling and recovering from security incidents."},
+    {"question":"Security Logs?","ideal_answer":"Records of security-related activities."},
+    {"question":"Network Security?","ideal_answer":"Protection of network infrastructure."},
+    {"question":"Investigate Breach?","ideal_answer":"Analyze logs, identify source and contain threat."},
+    {"question":"Security Strategy?","ideal_answer":"Comprehensive plan for protecting assets."},
+    {"question":"Zero Trust?","ideal_answer":"Never trust, always verify approach."},
+    {"question":"Ransomware Incident?","ideal_answer":"Isolate systems and restore from backups."},
+    {"question":"SOC Workflow?","ideal_answer":"Monitor, detect, analyze and respond to threats."}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "role":"QA Engineer",
+  "questions":[
+    {"question":"What is Testing?","ideal_answer":"Process of verifying software quality."},
+    {"question":"Manual Testing?","ideal_answer":"Testing performed by humans."},
+    {"question":"Test Case?","ideal_answer":"Document defining test steps."},
+    {"question":"Bug?","ideal_answer":"Defect in software."},
+    {"question":"Regression Testing?","ideal_answer":"Ensures changes don't break features."},
+    {"question":"API Testing?","ideal_answer":"Testing backend interfaces."},
+    {"question":"Smoke Testing?","ideal_answer":"Basic functionality testing."},
+    {"question":"Integration Testing?","ideal_answer":"Testing interactions between modules."},
+    {"question":"UAT?","ideal_answer":"User Acceptance Testing."},
+    {"question":"Bug Life Cycle?","ideal_answer":"Stages from discovery to closure."},
+    {"question":"Test Strategy?","ideal_answer":"Overall testing approach."},
+    {"question":"Test Coverage?","ideal_answer":"Extent of code tested."},
+    {"question":"Critical Defects?","ideal_answer":"High-priority issues affecting business."},
+    {"question":"QA Process?","ideal_answer":"Structured testing workflow."},
+    {"question":"Quality at Scale?","ideal_answer":"Automation and monitoring."}
+  ]
+}

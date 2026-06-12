@@ -1,0 +1,20 @@
+{
+  "role":"Full Stack Developer",
+  "questions":[
+    {"question":"What is Full Stack Development?","ideal_answer":"Development involving both frontend and backend technologies."},
+    {"question":"What is HTML?","ideal_answer":"Markup language for web pages."},
+    {"question":"What is CSS?","ideal_answer":"Styles web pages."},
+    {"question":"What is JavaScript?","ideal_answer":"Adds dynamic behavior to web applications."},
+    {"question":"What is React?","ideal_answer":"Frontend library for UI development."},
+    {"question":"What is Node.js?","ideal_answer":"JavaScript runtime for backend development."},
+    {"question":"What is MongoDB?","ideal_answer":"A NoSQL document database."},
+    {"question":"Explain REST APIs.","ideal_answer":"Interfaces enabling communication between applications."},
+    {"question":"What is Authentication?","ideal_answer":"Verifies user identity."},
+    {"question":"What is Deployment?","ideal_answer":"Making applications available to users."},
+    {"question":"Design MERN App.","ideal_answer":"Use MongoDB, Express, React and Node.js."},
+    {"question":"Scale Web Apps?","ideal_answer":"Use caching, CDNs and load balancing."},
+    {"question":"What is CI/CD?","ideal_answer":"Automated integration and deployment process."},
+    {"question":"Optimize Full Stack Performance.","ideal_answer":"Improve frontend, backend and database efficiency."},
+    {"question":"Production Grade System?","ideal_answer":"Secure, scalable and fault tolerant architecture."}
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "role": "Machine Learning Engineer",
+  "questions": [
+    {
+      "question": "What is Machine Learning?",
+      "ideal_answer": "Machine Learning is a field of AI that enables systems to learn patterns from data and make predictions."
+    },
+    {
+      "question": "Classification vs Regression?",
+      "ideal_answer": "Classification predicts categories while regression predicts numerical values."
+    },
+    {
+      "question": "What is Training Data?",
+      "ideal_answer": "Training data is used to teach a model patterns and relationships."
+    },
+    {
+      "question": "What is Testing Data?",
+      "ideal_answer": "Testing data evaluates model performance on unseen examples."
+    },
+    {
+      "question": "What is Validation Data?",
+      "ideal_answer": "Validation data helps tune hyperparameters and select the best model."
+    },
+    {
+      "question": "Explain Random Forest.",
+      "ideal_answer": "Random Forest combines multiple decision trees to improve accuracy and reduce overfitting."
+    },
+    {
+      "question": "Explain Decision Trees.",
+      "ideal_answer": "Decision Trees split data into branches based on feature values to make predictions."
+    },
+    {
+      "question": "What is Feature Engineering?",
+      "ideal_answer": "Feature engineering creates and transforms variables to improve model performance."
+    },
+    {
+      "question": "What is Cross Validation?",
+      "ideal_answer": "Cross-validation evaluates models by splitting data into multiple folds."
+    },
+    {
+      "question": "Explain Precision and Recall.",
+      "ideal_answer": "Precision measures prediction correctness while recall measures the ability to find actual positives."
+    },
+    {
+      "question": "Explain XGBoost.",
+      "ideal_answer": "XGBoost is a high-performance gradient boosting algorithm known for accuracy and efficiency."
+    },
+    {
+      "question": "How do you deploy ML models?",
+      "ideal_answer": "Deploy using FastAPI, Flask, Docker, Kubernetes, and cloud platforms."
+    },
+    {
+      "question": "What is Model Drift?",
+      "ideal_answer": "Model drift occurs when model performance decreases because real-world data changes."
+    },
+    {
+      "question": "Feature Selection Techniques?",
+      "ideal_answer": "Methods include correlation analysis, Recursive Feature Elimination, Lasso, and tree-based importance."
+    },
+    {
+      "question": "How do you monitor ML models in production?",
+      "ideal_answer": "Track accuracy, latency, drift, errors, resource usage, and retrain when needed."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "role":"Automation Tester",
+  "questions":[
+    {"question":"Automation Testing?","ideal_answer":"Testing using scripts and tools."},
+    {"question":"Selenium?","ideal_answer":"Web automation framework."},
+    {"question":"TestNG?","ideal_answer":"Java testing framework."},
+    {"question":"XPath?","ideal_answer":"Locator for web elements."},
+    {"question":"Test Script?","ideal_answer":"Automated test instructions."},
+    {"question":"Page Object Model?","ideal_answer":"Design pattern for automation."},
+    {"question":"CI/CD Integration?","ideal_answer":"Run tests automatically in pipelines."},
+    {"question":"API Automation?","ideal_answer":"Automated API validation."},
+    {"question":"Framework Design?","ideal_answer":"Structured automation architecture."},
+    {"question":"Reporting?","ideal_answer":"Test result summaries."},
+    {"question":"Automation Framework?","ideal_answer":"Reusable testing structure."},
+    {"question":"Optimize Execution?","ideal_answer":"Parallel and distributed testing."},
+    {"question":"Flaky Tests?","ideal_answer":"Tests producing inconsistent results."},
+    {"question":"Scale Automation?","ideal_answer":"Modular and maintainable framework."},
+    {"question":"Enterprise Testing Pipeline?","ideal_answer":"Integrated automated testing workflow."}
+  ]
+}

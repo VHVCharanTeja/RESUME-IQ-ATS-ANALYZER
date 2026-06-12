@@ -1,0 +1,20 @@
+{
+  "role":"Flutter Developer",
+  "questions":[
+    {"question":"What is Flutter?","ideal_answer":"Google framework for cross-platform apps."},
+    {"question":"What is Dart?","ideal_answer":"Programming language used by Flutter."},
+    {"question":"Widget?","ideal_answer":"Basic UI building block."},
+    {"question":"Stateful Widget?","ideal_answer":"Widget with mutable state."},
+    {"question":"Firebase?","ideal_answer":"Backend service platform."},
+    {"question":"State Management?","ideal_answer":"Managing app data efficiently."},
+    {"question":"Navigation?","ideal_answer":"Moving between screens."},
+    {"question":"API Integration?","ideal_answer":"Connecting app with backend services."},
+    {"question":"SQLite?","ideal_answer":"Local database solution."},
+    {"question":"Debugging?","ideal_answer":"Finding and fixing issues."},
+    {"question":"Design Flutter App?","ideal_answer":"Use widgets and architecture patterns."},
+    {"question":"Optimize Performance?","ideal_answer":"Reduce rebuilds and memory usage."},
+    {"question":"Offline Functionality?","ideal_answer":"Store data locally."},
+    {"question":"Authentication?","ideal_answer":"Verify user identity securely."},
+    {"question":"Production Architecture?","ideal_answer":"Scalable and maintainable structure."}
+  ]
+}

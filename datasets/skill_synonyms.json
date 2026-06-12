@@ -1,0 +1,791 @@
+{
+  "Python": [
+    "python",
+    "py",
+    "python programming",
+    "pandas",
+    "numpy",
+    "scipy",
+    "jupyter"
+  ],
+
+  "Machine Learning": [
+    "machine learning",
+    "ml",
+    "supervised learning",
+    "unsupervised learning",
+    "classification",
+    "regression",
+    "clustering"
+  ],
+
+  "Deep Learning": [
+    "deep learning",
+    "dl",
+    "cnn",
+    "rnn",
+    "lstm",
+    "neural network",
+    "artificial neural network"
+  ],
+
+  "TensorFlow": [
+    "tensorflow",
+    "tf",
+    "keras"
+  ],
+
+  "PyTorch": [
+    "pytorch",
+    "torch"
+  ],
+
+  "OpenCV": [
+    "opencv",
+    "cv2"
+  ],
+
+  "SQL": [
+    "sql",
+    "mysql",
+    "postgresql",
+    "database query",
+    "database querying"
+  ],
+
+  "Git": [
+    "git",
+    "github",
+    "gitlab",
+    "version control"
+  ],
+
+  "Data Structures": [
+    "data structures",
+    "dsa",
+    "algorithms"
+  ],
+
+  "Model Deployment": [
+    "model deployment",
+    "deployment",
+    "model serving",
+    "inference service"
+  ],
+
+  "Scikit-learn": [
+    "scikit-learn",
+    "sklearn"
+  ],
+
+  "Feature Engineering": [
+    "feature engineering",
+    "feature extraction",
+    "feature selection"
+  ],
+
+  "Statistics": [
+    "statistics",
+    "probability",
+    "statistical analysis"
+  ],
+
+  "MLOps": [
+    "mlops",
+    "machine learning operations",
+    "ml pipeline"
+  ],
+
+  "Pandas": [
+    "pandas",
+    "dataframe"
+  ],
+
+  "NumPy": [
+    "numpy",
+    "ndarray"
+  ],
+
+  "Power BI": [
+    "power bi",
+    "powerbi",
+    "dashboarding"
+  ],
+
+  "Data Visualization": [
+    "data visualization",
+    "visualization",
+    "charts",
+    "graphs"
+  ],
+
+  "Matplotlib": [
+    "matplotlib",
+    "pyplot"
+  ],
+
+  "Data Cleaning": [
+    "data cleaning",
+    "data preprocessing",
+    "data wrangling"
+  ],
+
+  "Excel": [
+    "excel",
+    "microsoft excel",
+    "spreadsheets"
+  ],
+
+  "Tableau": [
+    "tableau",
+    "tableau dashboard"
+  ],
+
+  "Reporting": [
+    "reporting",
+    "report creation",
+    "analytics reporting"
+  ],
+
+  "Business Intelligence": [
+    "business intelligence",
+    "bi"
+  ],
+
+  "NLP": [
+    "nlp",
+    "natural language processing"
+  ],
+
+  "Transformers": [
+    "transformers",
+    "huggingface transformers"
+  ],
+
+  "BERT": [
+    "bert",
+    "bidirectional encoder representations from transformers"
+  ],
+
+  "LLMs": [
+    "llm",
+    "llms",
+    "large language models",
+    "gpt",
+    "gemini",
+    "claude"
+  ],
+
+  "LangChain": [
+    "langchain"
+  ],
+
+  "Vector Databases": [
+    "vector database",
+    "vector databases",
+    "pinecone",
+    "faiss",
+    "weaviate",
+    "chroma"
+  ],
+
+  "Tokenization": [
+    "tokenization",
+    "tokenizer"
+  ],
+
+  "Prompt Engineering": [
+    "prompt engineering",
+    "prompt design"
+  ],
+
+  "RAG": [
+    "rag",
+    "retrieval augmented generation"
+  ],
+
+  "YOLO": [
+    "yolo",
+    "you only look once"
+  ],
+
+  "CNN": [
+    "cnn",
+    "convolutional neural network"
+  ],
+
+  "Image Processing": [
+    "image processing",
+    "image enhancement",
+    "computer vision preprocessing"
+  ],
+
+  "Object Detection": [
+    "object detection",
+    "object tracking",
+    "detection model"
+  ],
+
+  "Segmentation": [
+    "segmentation",
+    "image segmentation"
+  ],
+
+  "Fine Tuning": [
+    "fine tuning",
+    "finetuning"
+  ],
+
+  "Embeddings": [
+    "embeddings",
+    "vector embeddings"
+  ],
+
+  "Agentic AI": [
+    "agentic ai",
+    "ai agents",
+    "multi agent systems"
+  ],
+
+  "Flask": [
+    "flask"
+  ],
+
+  "Django": [
+    "django"
+  ],
+
+  "REST API": [
+    "rest api",
+    "restful api",
+    "api development"
+  ],
+
+  "OOP": [
+    "oop",
+    "object oriented programming"
+  ],
+
+  "Testing": [
+    "testing",
+    "unit testing",
+    "integration testing"
+  ],
+
+  "Debugging": [
+    "debugging",
+    "troubleshooting"
+  ],
+
+  "Java": [
+    "java"
+  ],
+
+  "Spring Boot": [
+    "spring boot",
+    "springboot"
+  ],
+
+  "JDBC": [
+    "jdbc"
+  ],
+
+  "Hibernate": [
+    "hibernate",
+    "orm"
+  ],
+
+  "MySQL": [
+    "mysql"
+  ],
+
+  "Maven": [
+    "maven"
+  ],
+
+  "Collections": [
+    "collections",
+    "java collections"
+  ],
+
+  "HTML": [
+    "html",
+    "html5"
+  ],
+
+  "CSS": [
+    "css",
+    "css3",
+    "styling"
+  ],
+
+  "JavaScript": [
+    "javascript",
+    "js",
+    "ecmascript"
+  ],
+
+  "React": [
+    "react",
+    "reactjs",
+    "jsx",
+    "hooks"
+  ],
+
+  "Bootstrap": [
+    "bootstrap",
+    "bootstrap framework"
+  ],
+
+  "Responsive Design": [
+    "responsive design",
+    "mobile responsive",
+    "responsive ui"
+  ],
+
+  "Redux": [
+    "redux",
+    "redux toolkit"
+  ],
+
+  "UI Design": [
+    "ui design",
+    "user interface design",
+    "wireframing"
+  ],
+
+  "Node.js": [
+    "nodejs",
+    "node.js"
+  ],
+
+  "Express.js": [
+    "express",
+    "expressjs",
+    "express.js"
+  ],
+
+  "MongoDB": [
+    "mongodb",
+    "mongo"
+  ],
+
+  "Authentication": [
+    "authentication",
+    "auth",
+    "login system"
+  ],
+
+  "JWT": [
+    "jwt",
+    "json web token"
+  ],
+
+  "Caching": [
+    "caching",
+    "cache",
+    "redis"
+  ],
+
+  "API Design": [
+    "api design",
+    "api architecture"
+  ],
+
+  "Docker": [
+    "docker",
+    "containerization"
+  ],
+
+  "Kubernetes": [
+    "kubernetes",
+    "k8s"
+  ],
+
+  "Linux": [
+    "linux",
+    "ubuntu",
+    "bash",
+    "shell scripting"
+  ],
+
+  "AWS": [
+    "aws",
+    "amazon web services",
+    "ec2",
+    "s3",
+    "lambda"
+  ],
+
+  "CI/CD": [
+    "ci/cd",
+    "continuous integration",
+    "continuous deployment",
+    "github actions"
+  ],
+
+  "Terraform": [
+    "terraform",
+    "iac",
+    "infrastructure as code"
+  ],
+
+  "Monitoring": [
+    "monitoring",
+    "grafana",
+    "prometheus"
+  ],
+
+  "Scripting": [
+    "scripting",
+    "automation scripts"
+  ],
+
+  "Networking": [
+    "networking",
+    "tcp/ip",
+    "dns",
+    "network protocols"
+  ],
+
+  "Azure": [
+    "azure",
+    "microsoft azure"
+  ],
+
+  "GCP": [
+    "gcp",
+    "google cloud platform"
+  ],
+
+  "Security": [
+    "security",
+    "cybersecurity",
+    "information security"
+  ],
+
+  "Cloud Storage": [
+    "cloud storage",
+    "object storage"
+  ],
+
+  "Automation": [
+    "automation",
+    "workflow automation"
+  ],
+
+  "Incident Management": [
+    "incident management",
+    "incident response"
+  ],
+
+  "Observability": [
+    "observability",
+    "distributed tracing",
+    "metrics"
+  ],
+
+  "Reliability Engineering": [
+    "reliability engineering",
+    "sre"
+  ],
+  
+  "SIEM": [
+    "siem",
+    "security information and event management"
+  ],
+
+  "Threat Detection": [
+    "threat detection",
+    "threat hunting"
+  ],
+
+  "Incident Response": [
+    "incident response",
+    "security incident response"
+  ],
+
+  "Vulnerability Assessment": [
+    "vulnerability assessment",
+    "vulnerability scanning"
+  ],
+
+  "Firewalls": [
+    "firewall",
+    "firewalls"
+  ],
+
+  "Log Analysis": [
+    "log analysis",
+    "log monitoring"
+  ],
+
+  "Kali Linux": [
+    "kali linux"
+  ],
+
+  "Penetration Testing": [
+    "penetration testing",
+    "pentesting"
+  ],
+
+  "OWASP": [
+    "owasp",
+    "owasp top 10"
+  ],
+
+  "Security Tools": [
+    "security tools",
+    "security testing tools"
+  ],
+
+  "Burp Suite": [
+    "burp suite",
+    "burp"
+  ],
+
+  "Nmap": [
+    "nmap"
+  ],
+
+  "Web Security": [
+    "web security",
+    "application security"
+  ],
+
+  "Exploitation Basics": [
+    "exploitation basics",
+    "basic exploitation"
+  ],
+
+  "PostgreSQL": [
+    "postgresql",
+    "postgres"
+  ],
+
+  "Stored Procedures": [
+    "stored procedures",
+    "procedures"
+  ],
+
+  "Database Design": [
+    "database design",
+    "schema design"
+  ],
+
+  "Joins": [
+    "joins",
+    "sql joins"
+  ],
+
+  "Views": [
+    "views",
+    "database views"
+  ],
+
+  "Indexes": [
+    "indexes",
+    "indexing"
+  ],
+
+  "Triggers": [
+    "triggers",
+    "database triggers"
+  ],
+
+  "Query Optimization": [
+    "query optimization",
+    "sql optimization",
+    "sql tuning"
+  ],
+
+  "Database Management": [
+    "database management",
+    "database administration"
+  ],
+
+  "Backup Recovery": [
+    "backup recovery",
+    "backup and recovery"
+  ],
+
+  "Performance Tuning": [
+    "performance tuning",
+    "database tuning"
+  ],
+
+  "Replication": [
+    "replication",
+    "database replication"
+  ],
+
+  "Indexing": [
+    "indexing",
+    "database indexing"
+  ],
+
+  "Disaster Recovery": [
+    "disaster recovery",
+    "dr planning"
+  ],
+
+  "User Management": [
+    "user management",
+    "access control"
+  ],
+
+  "Kotlin": [
+    "kotlin"
+  ],
+
+  "Android Studio": [
+    "android studio"
+  ],
+
+  "SQLite": [
+    "sqlite"
+  ],
+
+  "Firebase": [
+    "firebase",
+    "firestore"
+  ],
+
+  "RecyclerView": [
+    "recyclerview"
+  ],
+
+  "Jetpack": [
+    "jetpack",
+    "jetpack compose"
+  ],
+
+  "Flutter": [
+    "flutter"
+  ],
+
+  "Dart": [
+    "dart"
+  ],
+
+  "State Management": [
+    "state management",
+    "provider",
+    "bloc"
+  ],
+
+  "API Integration": [
+    "api integration"
+  ],
+
+  "Manual Testing": [
+    "manual testing"
+  ],
+
+  "Selenium": [
+    "selenium",
+    "selenium webdriver"
+  ],
+
+  "Test Cases": [
+    "test cases",
+    "test case design"
+  ],
+
+  "API Testing": [
+    "api testing",
+    "postman"
+  ],
+
+  "Bug Tracking": [
+    "bug tracking",
+    "issue tracking",
+    "jira"
+  ],
+
+  "Regression Testing": [
+    "regression testing"
+  ],
+
+  "Agile": [
+    "agile",
+    "agile methodology"
+  ],
+
+  "Test Planning": [
+    "test planning"
+  ],
+
+  "TestNG": [
+    "testng"
+  ],
+
+  "Automation Frameworks": [
+    "automation frameworks",
+    "test automation framework"
+  ],
+
+  "XPath": [
+    "xpath"
+  ],
+
+  "Page Object Model": [
+    "page object model",
+    "pom framework"
+  ],
+
+  "Requirement Gathering": [
+    "requirement gathering",
+    "requirements elicitation"
+  ],
+
+  "Communication": [
+    "communication",
+    "presentation skills"
+  ],
+
+  "Documentation": [
+    "documentation",
+    "technical documentation"
+  ],
+
+  "Stakeholder Management": [
+    "stakeholder management"
+  ],
+
+  "Process Analysis": [
+    "process analysis",
+    "business process analysis"
+  ],
+
+  "Scrum": [
+    "scrum"
+  ],
+
+  "Analytics": [
+    "analytics",
+    "data analytics"
+  ],
+
+  "Roadmapping": [
+    "roadmapping",
+    "product roadmap"
+  ],
+
+  "User Stories": [
+    "user stories"
+  ],
+
+  "Market Research": [
+    "market research"
+  ],
+
+  "Prioritization": [
+    "prioritization",
+    "feature prioritization"
+  ],
+
+  "Product Strategy": [
+    "product strategy"
+  ]
+}

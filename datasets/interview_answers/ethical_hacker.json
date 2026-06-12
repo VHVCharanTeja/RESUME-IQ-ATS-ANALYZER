@@ -1,0 +1,20 @@
+{
+  "role":"Ethical Hacker",
+  "questions":[
+    {"question":"What is Ethical Hacking?","ideal_answer":"Authorized testing of systems for vulnerabilities."},
+    {"question":"What is Kali Linux?","ideal_answer":"Security-focused Linux distribution."},
+    {"question":"What is Nmap?","ideal_answer":"Network scanning and discovery tool."},
+    {"question":"What is SQL Injection?","ideal_answer":"Attack exploiting database queries."},
+    {"question":"What is XSS?","ideal_answer":"Cross Site Scripting attack."},
+    {"question":"Penetration Testing?","ideal_answer":"Simulated attack to find vulnerabilities."},
+    {"question":"OWASP Top 10?","ideal_answer":"List of common web security risks."},
+    {"question":"Burp Suite?","ideal_answer":"Web application security testing tool."},
+    {"question":"Reconnaissance?","ideal_answer":"Information gathering phase."},
+    {"question":"Privilege Escalation?","ideal_answer":"Gaining higher system permissions."},
+    {"question":"Plan Pen Test?","ideal_answer":"Define scope, test and report findings."},
+    {"question":"Web Security Assessment?","ideal_answer":"Evaluate application vulnerabilities."},
+    {"question":"Exploit Development?","ideal_answer":"Creating proof-of-concept attacks."},
+    {"question":"Responsible Disclosure?","ideal_answer":"Reporting vulnerabilities ethically."},
+    {"question":"Security Assessment Process?","ideal_answer":"Recon, testing, reporting and remediation."}
+  ]
+}

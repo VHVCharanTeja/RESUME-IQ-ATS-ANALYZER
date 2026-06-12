@@ -1,0 +1,20 @@
+{
+  "role":"Generative AI Engineer",
+  "questions":[
+    {"question":"What is Generative AI?","ideal_answer":"Generative AI creates text, images, audio or code from learned patterns."},
+    {"question":"What is an LLM?","ideal_answer":"A Large Language Model is trained on massive text datasets to generate human-like text."},
+    {"question":"What is Prompt Engineering?","ideal_answer":"Prompt engineering is designing effective prompts to guide AI outputs."},
+    {"question":"What is Tokenization?","ideal_answer":"Breaking text into tokens processed by the model."},
+    {"question":"What are Embeddings?","ideal_answer":"Numerical representations of text used for semantic understanding."},
+    {"question":"What is Transformer Architecture?","ideal_answer":"A neural network using self-attention mechanisms."},
+    {"question":"What is RAG?","ideal_answer":"Combines retrieval and generation for accurate responses."},
+    {"question":"What is LangChain?","ideal_answer":"A framework for building LLM applications."},
+    {"question":"What is a Vector Database?","ideal_answer":"Stores embeddings for similarity search."},
+    {"question":"What is Fine-Tuning?","ideal_answer":"Training an existing model on domain-specific data."},
+    {"question":"Reduce Hallucinations?","ideal_answer":"Use RAG, validation layers and better prompts."},
+    {"question":"Fine-Tuning vs Prompt Engineering?","ideal_answer":"Fine-tuning changes model weights, prompting changes instructions."},
+    {"question":"Design Enterprise RAG.","ideal_answer":"Documents → embeddings → vector DB → retriever → LLM."},
+    {"question":"Multi-Agent Architecture?","ideal_answer":"Multiple AI agents collaborate on specialized tasks."},
+    {"question":"Evaluate LLM System?","ideal_answer":"Measure accuracy, relevance, latency and user satisfaction."}
+  ]
+}

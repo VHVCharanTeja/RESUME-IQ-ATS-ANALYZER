@@ -1,0 +1,20 @@
+{
+  "role":"Business Analyst",
+  "questions":[
+    {"question":"What is Business Analysis?","ideal_answer":"Identifying business needs and solutions."},
+    {"question":"Requirement Gathering?","ideal_answer":"Collecting stakeholder requirements."},
+    {"question":"BRD?","ideal_answer":"Business Requirement Document."},
+    {"question":"KPI?","ideal_answer":"Key Performance Indicator."},
+    {"question":"Stakeholder Management?","ideal_answer":"Managing stakeholder expectations."},
+    {"question":"SWOT Analysis?","ideal_answer":"Strengths, Weaknesses, Opportunities and Threats."},
+    {"question":"Process Mapping?","ideal_answer":"Visual representation of workflows."},
+    {"question":"Gap Analysis?","ideal_answer":"Comparing current and desired states."},
+    {"question":"Agile?","ideal_answer":"Iterative development methodology."},
+    {"question":"User Stories?","ideal_answer":"Requirements from user perspective."},
+    {"question":"Analyze Requirements?","ideal_answer":"Prioritize and validate needs."},
+    {"question":"Prioritize Stakeholders?","ideal_answer":"Focus on business impact."},
+    {"question":"Reporting Dashboards?","ideal_answer":"Present business metrics visually."},
+    {"question":"Process Improvement?","ideal_answer":"Increase efficiency and productivity."},
+    {"question":"Digital Transformation?","ideal_answer":"Technology-driven business improvement."}
+  ]
+}

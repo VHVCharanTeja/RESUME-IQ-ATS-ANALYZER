@@ -1,0 +1,20 @@
+{
+  "role":"SQL Developer",
+  "questions":[
+    {"question":"What is SQL?","ideal_answer":"Language used to manage relational databases."},
+    {"question":"What is a Table?","ideal_answer":"Collection of rows and columns."},
+    {"question":"Primary Key?","ideal_answer":"Uniquely identifies records."},
+    {"question":"Foreign Key?","ideal_answer":"Links related tables."},
+    {"question":"What is Join?","ideal_answer":"Combines data from multiple tables."},
+    {"question":"Normalization?","ideal_answer":"Reduces redundancy in databases."},
+    {"question":"Indexes?","ideal_answer":"Improve query performance."},
+    {"question":"Views?","ideal_answer":"Virtual tables based on queries."},
+    {"question":"Stored Procedures?","ideal_answer":"Reusable SQL code blocks."},
+    {"question":"Triggers?","ideal_answer":"Automatically executed database actions."},
+    {"question":"Optimize Query?","ideal_answer":"Use indexes and efficient SQL."},
+    {"question":"Schema Design?","ideal_answer":"Create efficient database structures."},
+    {"question":"Large Datasets?","ideal_answer":"Partitioning and indexing strategies."},
+    {"question":"Transaction Management?","ideal_answer":"Ensure ACID properties."},
+    {"question":"High Performance Database?","ideal_answer":"Optimized schema and indexing."}
+  ]
+}

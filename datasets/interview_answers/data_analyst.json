@@ -1,0 +1,65 @@
+{
+  "role": "Data Analyst",
+  "questions": [
+    {
+      "question": "What is a KPI?",
+      "ideal_answer": "A Key Performance Indicator is a measurable value used to evaluate business performance."
+    },
+    {
+      "question": "What is Power BI?",
+      "ideal_answer": "Power BI is a business intelligence tool used for reporting, dashboard creation, and data visualization."
+    },
+    {
+      "question": "What is SQL?",
+      "ideal_answer": "SQL is a language used to manage and query relational databases."
+    },
+    {
+      "question": "Explain Dashboards.",
+      "ideal_answer": "Dashboards visually display important metrics and business insights in one place."
+    },
+    {
+      "question": "What is Data Analysis?",
+      "ideal_answer": "Data analysis involves examining datasets to discover trends, patterns, and useful information."
+    },
+    {
+      "question": "Explain SQL Joins.",
+      "ideal_answer": "SQL joins combine data from multiple tables using common columns."
+    },
+    {
+      "question": "Difference between WHERE and HAVING?",
+      "ideal_answer": "WHERE filters rows before grouping, while HAVING filters grouped results."
+    },
+    {
+      "question": "What is a Primary Key?",
+      "ideal_answer": "A primary key uniquely identifies each record in a table."
+    },
+    {
+      "question": "Explain Normalization.",
+      "ideal_answer": "Normalization reduces data redundancy and improves database efficiency."
+    },
+    {
+      "question": "What is Business Intelligence?",
+      "ideal_answer": "Business Intelligence uses data analytics tools to support business decisions."
+    },
+    {
+      "question": "How would you analyze declining sales?",
+      "ideal_answer": "Examine historical sales, customer behavior, product performance, and market trends."
+    },
+    {
+      "question": "Explain Cohort Analysis.",
+      "ideal_answer": "Cohort analysis groups users with shared characteristics for behavior analysis."
+    },
+    {
+      "question": "What is Data Warehousing?",
+      "ideal_answer": "A data warehouse stores large amounts of structured business data for analytics."
+    },
+    {
+      "question": "How would you design an executive dashboard?",
+      "ideal_answer": "Focus on KPIs, trends, visual clarity, and actionable insights."
+    },
+    {
+      "question": "Explain ETL Processes.",
+      "ideal_answer": "ETL stands for Extract, Transform, and Load. It prepares data for analytics."
+    }
+  ]
+}

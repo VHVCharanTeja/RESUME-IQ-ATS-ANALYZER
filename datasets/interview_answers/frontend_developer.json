@@ -1,0 +1,20 @@
+{
+  "role":"Frontend Developer",
+  "questions":[
+    {"question":"What is HTML?","ideal_answer":"HTML is the standard markup language used to structure web pages."},
+    {"question":"What is CSS?","ideal_answer":"CSS styles HTML elements and controls layout, colors and responsiveness."},
+    {"question":"What is JavaScript?","ideal_answer":"JavaScript adds interactivity and dynamic behavior to web pages."},
+    {"question":"What is Responsive Design?","ideal_answer":"Responsive design ensures websites work across different screen sizes."},
+    {"question":"What is React?","ideal_answer":"React is a JavaScript library for building user interfaces."},
+    {"question":"Explain Flexbox.","ideal_answer":"Flexbox is a CSS layout model for arranging elements efficiently."},
+    {"question":"Explain CSS Grid.","ideal_answer":"CSS Grid creates two-dimensional layouts using rows and columns."},
+    {"question":"What are React Components?","ideal_answer":"Reusable building blocks used to create React applications."},
+    {"question":"What is State Management?","ideal_answer":"Managing and updating application data across components."},
+    {"question":"What is Redux?","ideal_answer":"Redux is a state management library for JavaScript applications."},
+    {"question":"Optimize a React App.","ideal_answer":"Use memoization, lazy loading and efficient rendering techniques."},
+    {"question":"What is Virtual DOM?","ideal_answer":"A lightweight copy of the DOM used to improve performance."},
+    {"question":"Improve Web Performance.","ideal_answer":"Minify assets, lazy load resources and optimize images."},
+    {"question":"Accessible UI?","ideal_answer":"Use semantic HTML, keyboard navigation and ARIA attributes."},
+    {"question":"Frontend Architecture?","ideal_answer":"Organized structure for components, state and routing."}
+  ]
+}

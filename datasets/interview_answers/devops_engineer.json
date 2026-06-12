@@ -1,0 +1,20 @@
+{
+  "role":"DevOps Engineer",
+  "questions":[
+    {"question":"What is DevOps?","ideal_answer":"Culture combining development and operations for faster delivery."},
+    {"question":"What is Linux?","ideal_answer":"Open-source operating system widely used on servers."},
+    {"question":"What is Git?","ideal_answer":"Version control system."},
+    {"question":"What is Docker?","ideal_answer":"Containerization platform."},
+    {"question":"What is CI/CD?","ideal_answer":"Continuous Integration and Continuous Deployment."},
+    {"question":"What is Kubernetes?","ideal_answer":"Container orchestration platform."},
+    {"question":"What is Terraform?","ideal_answer":"Infrastructure as Code tool."},
+    {"question":"What is IaC?","ideal_answer":"Managing infrastructure through code."},
+    {"question":"What is Monitoring?","ideal_answer":"Tracking application and infrastructure health."},
+    {"question":"Explain Containerization.","ideal_answer":"Packaging applications with dependencies."},
+    {"question":"Design CI/CD Pipeline.","ideal_answer":"Automate build, test and deployment stages."},
+    {"question":"Manage Kubernetes Cluster.","ideal_answer":"Deploy, scale and monitor workloads."},
+    {"question":"Blue Green Deployment?","ideal_answer":"Deployment strategy minimizing downtime."},
+    {"question":"Handle Production Outages.","ideal_answer":"Investigate, mitigate and restore services quickly."},
+    {"question":"Cloud Native Infrastructure?","ideal_answer":"Infrastructure optimized for cloud environments."}
+  ]
+}

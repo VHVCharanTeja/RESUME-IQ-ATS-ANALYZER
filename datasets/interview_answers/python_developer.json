@@ -1,0 +1,20 @@
+{
+  "role":"Python Developer",
+  "questions":[
+    {"question":"What is Python?","ideal_answer":"Python is a high-level interpreted programming language."},
+    {"question":"What are Variables?","ideal_answer":"Variables store data values."},
+    {"question":"What are Lists?","ideal_answer":"Mutable ordered collections."},
+    {"question":"What are Tuples?","ideal_answer":"Immutable ordered collections."},
+    {"question":"What is Dictionary?","ideal_answer":"Key-value data structure."},
+    {"question":"Explain OOP.","ideal_answer":"Programming using classes and objects."},
+    {"question":"What are Decorators?","ideal_answer":"Functions that modify other functions."},
+    {"question":"What are Generators?","ideal_answer":"Functions that yield values one at a time."},
+    {"question":"Exception Handling?","ideal_answer":"Managing runtime errors using try-except."},
+    {"question":"What are Modules?","ideal_answer":"Reusable Python files containing code."},
+    {"question":"Explain Multithreading.","ideal_answer":"Running multiple threads concurrently."},
+    {"question":"What is Multiprocessing?","ideal_answer":"Running tasks using multiple CPU processes."},
+    {"question":"Design REST API.","ideal_answer":"Use FastAPI or Flask with endpoints and database integration."},
+    {"question":"Optimize Python Code.","ideal_answer":"Use efficient algorithms, caching and profiling."},
+    {"question":"Memory Management?","ideal_answer":"Python uses reference counting and garbage collection."}
+  ]
+}

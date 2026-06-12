@@ -1,0 +1,20 @@
+{
+  "role":"Cloud Engineer",
+  "questions":[
+    {"question":"What is Cloud Computing?","ideal_answer":"On-demand delivery of computing resources over the internet."},
+    {"question":"What is AWS?","ideal_answer":"Amazon's cloud computing platform."},
+    {"question":"What is Azure?","ideal_answer":"Microsoft cloud platform."},
+    {"question":"What is GCP?","ideal_answer":"Google Cloud Platform."},
+    {"question":"What is EC2?","ideal_answer":"AWS virtual machine service."},
+    {"question":"What is S3?","ideal_answer":"AWS object storage service."},
+    {"question":"What is Load Balancing?","ideal_answer":"Distributing traffic across servers."},
+    {"question":"What is Auto Scaling?","ideal_answer":"Automatically adjusting resources based on demand."},
+    {"question":"Cloud Security?","ideal_answer":"Protecting cloud resources and data."},
+    {"question":"What is VPC?","ideal_answer":"Virtual Private Cloud network."},
+    {"question":"Design Cloud Architecture.","ideal_answer":"Use scalable and fault-tolerant services."},
+    {"question":"Optimize Cloud Costs.","ideal_answer":"Use monitoring and right-sized resources."},
+    {"question":"Disaster Recovery?","ideal_answer":"Strategy for recovering from failures."},
+    {"question":"Multi Region System?","ideal_answer":"Deploy services across multiple regions."},
+    {"question":"Cloud Governance?","ideal_answer":"Policies controlling cloud usage and security."}
+  ]
+}

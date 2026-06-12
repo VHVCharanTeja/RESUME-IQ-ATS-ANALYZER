@@ -1,0 +1,20 @@
+{
+  "role":"Backend Developer",
+  "questions":[
+    {"question":"What is Backend Development?","ideal_answer":"Backend development handles server-side logic, databases and APIs."},
+    {"question":"What is an API?","ideal_answer":"An API allows communication between software systems."},
+    {"question":"What is REST?","ideal_answer":"REST is an architectural style for building web services."},
+    {"question":"What is a Database?","ideal_answer":"A database stores and manages data efficiently."},
+    {"question":"What is Authentication?","ideal_answer":"Authentication verifies user identity."},
+    {"question":"Explain Node.js.","ideal_answer":"Node.js is a JavaScript runtime used for server-side development."},
+    {"question":"What is Express.js?","ideal_answer":"Express is a Node.js framework for building APIs."},
+    {"question":"What is JWT?","ideal_answer":"JSON Web Token is used for secure authentication."},
+    {"question":"SQL vs NoSQL?","ideal_answer":"SQL uses structured tables, NoSQL uses flexible schemas."},
+    {"question":"What is Caching?","ideal_answer":"Caching stores frequently used data for faster access."},
+    {"question":"Design Scalable API.","ideal_answer":"Use load balancing, caching and microservices."},
+    {"question":"Secure APIs?","ideal_answer":"Use HTTPS, JWT, validation and rate limiting."},
+    {"question":"What are Microservices?","ideal_answer":"Independent services communicating through APIs."},
+    {"question":"Optimize Database Performance.","ideal_answer":"Use indexes, query optimization and caching."},
+    {"question":"Backend for Millions of Users?","ideal_answer":"Use distributed systems, scaling and cloud infrastructure."}
+  ]
+}

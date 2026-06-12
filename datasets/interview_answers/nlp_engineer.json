@@ -1,0 +1,20 @@
+{
+  "role":"NLP Engineer",
+  "questions":[
+    {"question":"What is NLP?","ideal_answer":"Natural Language Processing is a branch of AI that enables computers to understand, interpret and generate human language."},
+    {"question":"What is Tokenization?","ideal_answer":"Tokenization is the process of splitting text into words, subwords or sentences."},
+    {"question":"What is Stemming?","ideal_answer":"Stemming reduces words to their root form by removing suffixes."},
+    {"question":"What is Lemmatization?","ideal_answer":"Lemmatization converts words into meaningful dictionary forms."},
+    {"question":"What is Text Preprocessing?","ideal_answer":"Text preprocessing includes tokenization, stop-word removal, stemming, lemmatization and cleaning."},
+    {"question":"What is BERT?","ideal_answer":"BERT is a transformer-based language model developed by Google for understanding context in text."},
+    {"question":"What are Transformers?","ideal_answer":"Transformers are deep learning architectures using self-attention mechanisms for NLP tasks."},
+    {"question":"What is Sentiment Analysis?","ideal_answer":"Sentiment analysis identifies emotions or opinions from text."},
+    {"question":"Explain Embeddings.","ideal_answer":"Embeddings convert words or sentences into numerical vectors preserving semantic meaning."},
+    {"question":"What is Named Entity Recognition?","ideal_answer":"NER identifies entities such as names, locations, organizations and dates in text."},
+    {"question":"What is RAG?","ideal_answer":"Retrieval Augmented Generation combines retrieval systems with LLMs for accurate responses."},
+    {"question":"Explain Vector Databases.","ideal_answer":"Vector databases store embeddings and enable similarity search."},
+    {"question":"How would you reduce hallucinations?","ideal_answer":"Use RAG, grounding, validation, prompt engineering and fine-tuning."},
+    {"question":"Explain Fine-Tuning.","ideal_answer":"Fine-tuning adapts a pretrained language model to a specific domain."},
+    {"question":"Design a Document QA System.","ideal_answer":"Use embeddings, vector database, retriever and LLM to answer document-based questions."}
+  ]
+}

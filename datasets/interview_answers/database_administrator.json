@@ -1,0 +1,20 @@
+{
+  "role":"Database Administrator",
+  "questions":[
+    {"question":"What is DBA?","ideal_answer":"Manages databases and ensures availability."},
+    {"question":"Database Backup?","ideal_answer":"Copy of data for recovery."},
+    {"question":"Recovery?","ideal_answer":"Restoring lost data."},
+    {"question":"Indexing?","ideal_answer":"Improves search performance."},
+    {"question":"Replication?","ideal_answer":"Copying data across servers."},
+    {"question":"Performance Tuning?","ideal_answer":"Optimizing database speed."},
+    {"question":"Database Security?","ideal_answer":"Protecting data from unauthorized access."},
+    {"question":"Monitoring?","ideal_answer":"Tracking database health."},
+    {"question":"Disaster Recovery?","ideal_answer":"Plan for restoring operations."},
+    {"question":"User Management?","ideal_answer":"Managing access and permissions."},
+    {"question":"Backup Strategy?","ideal_answer":"Scheduled backups and testing."},
+    {"question":"Database Failure?","ideal_answer":"Restore using backups and logs."},
+    {"question":"Enterprise Optimization?","ideal_answer":"Improve queries and resources."},
+    {"question":"High Availability?","ideal_answer":"Use clustering and replication."},
+    {"question":"Recovery Architecture?","ideal_answer":"Redundant systems and backup plans."}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "role":"Android Developer",
+  "questions":[
+    {"question":"What is Android?","ideal_answer":"Mobile operating system by Google."},
+    {"question":"Android Studio?","ideal_answer":"Official Android development IDE."},
+    {"question":"Activity?","ideal_answer":"Represents a screen in Android."},
+    {"question":"Fragment?","ideal_answer":"Reusable UI component."},
+    {"question":"SQLite?","ideal_answer":"Local database for Android."},
+    {"question":"RecyclerView?","ideal_answer":"Efficient list display component."},
+    {"question":"Firebase?","ideal_answer":"Backend services platform."},
+    {"question":"Intents?","ideal_answer":"Messaging objects between components."},
+    {"question":"MVVM?","ideal_answer":"Model View ViewModel architecture."},
+    {"question":"Jetpack?","ideal_answer":"Android development libraries."},
+    {"question":"Design Android App?","ideal_answer":"Use architecture and best practices."},
+    {"question":"Performance Optimization?","ideal_answer":"Reduce memory and CPU usage."},
+    {"question":"Offline Storage?","ideal_answer":"SQLite or Room database."},
+    {"question":"Push Notifications?","ideal_answer":"Use Firebase Cloud Messaging."},
+    {"question":"Scalable Android App?","ideal_answer":"Use clean architecture and modularization."}
+  ]
+}

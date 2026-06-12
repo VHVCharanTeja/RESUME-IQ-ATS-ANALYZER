@@ -1,0 +1,65 @@
+{
+  "role": "Data Scientist",
+  "questions": [
+    {
+      "question": "What is Data Science?",
+      "ideal_answer": "Data Science is the field of extracting useful insights, patterns, and knowledge from structured and unstructured data using statistics, machine learning, and data visualization."
+    },
+    {
+      "question": "What is Data Cleaning?",
+      "ideal_answer": "Data cleaning is the process of removing errors, duplicates, inconsistencies, and missing values from datasets to improve data quality."
+    },
+    {
+      "question": "Difference between structured and unstructured data?",
+      "ideal_answer": "Structured data follows a predefined format such as tables and databases, while unstructured data includes text, images, videos, and audio files."
+    },
+    {
+      "question": "What is Correlation?",
+      "ideal_answer": "Correlation measures the strength and direction of the relationship between two variables."
+    },
+    {
+      "question": "What is Data Visualization?",
+      "ideal_answer": "Data visualization represents information using charts, graphs, and dashboards to make insights easier to understand."
+    },
+    {
+      "question": "Explain Hypothesis Testing.",
+      "ideal_answer": "Hypothesis testing is a statistical method used to determine whether there is enough evidence to support a specific claim about data."
+    },
+    {
+      "question": "What is Standard Deviation?",
+      "ideal_answer": "Standard deviation measures how spread out data values are from the mean."
+    },
+    {
+      "question": "Difference between Mean and Median?",
+      "ideal_answer": "Mean is the average value, while median is the middle value after sorting the dataset."
+    },
+    {
+      "question": "Explain Regression Analysis.",
+      "ideal_answer": "Regression analysis identifies relationships between variables and predicts future outcomes."
+    },
+    {
+      "question": "What is Feature Engineering?",
+      "ideal_answer": "Feature engineering involves creating, selecting, or transforming features to improve model performance."
+    },
+    {
+      "question": "How would you build a churn prediction model?",
+      "ideal_answer": "Collect customer data, preprocess it, train classification models, evaluate performance, and deploy the best model."
+    },
+    {
+      "question": "Explain A/B Testing.",
+      "ideal_answer": "A/B testing compares two versions of a product or feature to determine which performs better."
+    },
+    {
+      "question": "How would you handle missing data?",
+      "ideal_answer": "Missing values can be removed, replaced using statistical methods, or predicted using machine learning techniques."
+    },
+    {
+      "question": "What is Dimensionality Reduction?",
+      "ideal_answer": "Dimensionality reduction decreases the number of features while preserving important information."
+    },
+    {
+      "question": "Explain PCA.",
+      "ideal_answer": "Principal Component Analysis reduces dataset dimensions while retaining maximum variance."
+    }
+  ]
+}

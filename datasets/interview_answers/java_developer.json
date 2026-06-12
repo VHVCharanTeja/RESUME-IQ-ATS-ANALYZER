@@ -1,0 +1,20 @@
+{
+  "role":"Java Developer",
+  "questions":[
+    {"question":"What is Java?","ideal_answer":"Java is an object-oriented programming language."},
+    {"question":"What is JVM?","ideal_answer":"Java Virtual Machine executes Java bytecode."},
+    {"question":"JDK vs JRE?","ideal_answer":"JDK includes development tools, JRE runs applications."},
+    {"question":"What is OOP?","ideal_answer":"Object-oriented programming using classes and objects."},
+    {"question":"What is Inheritance?","ideal_answer":"One class acquiring properties from another."},
+    {"question":"What is Polymorphism?","ideal_answer":"One interface with multiple implementations."},
+    {"question":"What is Encapsulation?","ideal_answer":"Hiding internal details using access modifiers."},
+    {"question":"What is Spring Boot?","ideal_answer":"Framework for creating Java applications quickly."},
+    {"question":"What is JDBC?","ideal_answer":"Java Database Connectivity API."},
+    {"question":"Collections Framework?","ideal_answer":"Provides List, Set, Map and Queue structures."},
+    {"question":"What is Multithreading?","ideal_answer":"Executing multiple threads concurrently."},
+    {"question":"What is Hibernate?","ideal_answer":"ORM framework for database operations."},
+    {"question":"Design Scalable Java App.","ideal_answer":"Use microservices, caching and load balancing."},
+    {"question":"Garbage Collection?","ideal_answer":"Automatic memory cleanup process."},
+    {"question":"What are Microservices?","ideal_answer":"Independent services communicating via APIs."}
+  ]
+}
